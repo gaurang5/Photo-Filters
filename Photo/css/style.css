@@ -1,0 +1,112 @@
+body{
+    background-color: BlanchedAlmond;
+}
+
+h2{
+  margin-left: 7cm;
+  margin-top: 1px;
+  margin-botom: 50px;
+  font-size: 30px;
+  word-spacing: 15.3cm;
+}
+
+h3{
+	font-size: 25px;
+	margin-left: 30px;
+  text-align: center;
+}
+
+div{
+  margin-left: 30px;
+  text-align: center;
+}
+
+.hd{
+  text-align: center;
+  font-size: 40pt;
+}
+
+#div1{
+	width: 300pt;
+	height: 150pt;
+	margin-left: 3.2cm;
+	border: 1px solid black;
+}
+
+#div2{
+	width: 300pt;
+	height: 150pt;
+	margin-left: 7.4cm;
+	border: 1px solid black;
+}
+
+#fileinput{
+  margin-top: 5px;
+	margin-left: 30px;
+}
+
+.gray{
+  background-color: Gray;
+  border: 1px solid black;
+  font-weight: bold;
+  padding: 2pt;
+  margin-right: 10px;
+	margin-left: 30px;
+}
+
+.red{
+  background-color: Red;
+  border: 1px solid black;
+  font-weight: bold;
+  padding: 2pt;
+  margin-right: 10px;
+	margin-left: 10px;
+}
+
+.green{
+  background-color: Green;
+  border: 1px solid black;
+  font-weight: bold;
+  padding: 2pt;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.blue{
+  background-color: Blue;
+  border: 1px solid black;
+  font-weight: bold;
+  padding: 2pt;
+  margin-right: 10px;
+	margin-left: 10px;
+}
+
+.rb{
+  background: linear-gradient(red,orange,yellow,green,blue,indigo,violet);
+  border: 1px solid black;
+  font-weight: bold;
+  padding: 2pt;
+  margin-right: 10px;
+	margin-left: 10px;
+}
+
+.window{
+  border: 1px solid black;
+  font-weight: bold;
+  padding: 2pt;
+  margin-right: 10px;
+	margin-left: 10px;
+}
+
+.blurr{
+  border: 1px solid black;
+  font-weight: bold;
+  padding: 2pt;
+  margin-right: 10px;
+	margin-left: 10px;
+}
+
+.rst{
+  margin: 5px;
+  margin-left: 30px;
+}
